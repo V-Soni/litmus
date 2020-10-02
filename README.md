@@ -1,6 +1,6 @@
 <img alt="LitmusChaos" src="https://landscape.cncf.io/logos/litmus.svg" width="200" align="left">
 
-# **[Litmus](https://docs.litmuschaos.io/docs/getstarted/)**
+# Litmus
 ### Cloud-Native Chaos Engineering
 
 [![Slack Channel](https://img.shields.io/badge/Slack-Join-purple)](https://slack.litmuschaos.io)
