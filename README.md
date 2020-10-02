@@ -1,6 +1,6 @@
 <img alt="LitmusChaos" src="https://landscape.cncf.io/logos/litmus.svg" width="200" align="left">
 
-# **[Litmus](https://docs.litmuschaos.io/docs/getstarted/)**
+# **[Litmus](https://litmuschaos.io)**
 ### Cloud-Native Chaos Engineering
 
 [![Slack Channel](https://img.shields.io/badge/Slack-Join-purple)](https://slack.litmuschaos.io)
@@ -17,7 +17,7 @@
 
 ## Overview
 
-**[Litmus](https://docs.litmuschaos.io/docs/getstarted/)** is a toolset to do cloud-native chaos engineering. Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments. SREs use Litmus to run chaos experiments initially in the staging environment and eventually in production to find bugs, vulnerabilities. Fixing the weaknesses leads to increased resilience of the system.
+**[Litmus](https://litmuschaos.io)** is a toolset to do cloud-native chaos engineering. Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments. SREs use Litmus to run chaos experiments initially in the staging environment and eventually in production to find bugs, vulnerabilities. Fixing the weaknesses leads to increased resilience of the system.
 
 **[Litmus](https://docs.litmuschaos.io/docs/getstarted/)** takes a cloud-native approach to create, manage and monitor chaos. Chaos is orchestrated using the following Kubernetes Custom Resource Definitions (**CRDs**):
 
